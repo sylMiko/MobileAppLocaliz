@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "872745063120",
+    "project_id": "kostekapp-1252d",
+    "storage_bucket": "kostekapp-1252d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:872745063120:android:740a2f6dae28f7e53744d5",
+        "android_client_info": {
+          "package_name": "com.example.kostek_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "872745063120-5fd3cqbk6flildnbpe8tpfjvjn6di60f.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.kostek_app",
+            "certificate_hash": "7e7edd1351a433db526bb32f67bacf7f92952b4b"
+          }
+        },
+        {
+          "client_id": "872745063120-0ramd33p24d35reu2b9ju7jt9ijv5aag.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCFHi35ELYPx9BXH0h2aiEVCrWOUKuT6U8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "872745063120-0ramd33p24d35reu2b9ju7jt9ijv5aag.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
